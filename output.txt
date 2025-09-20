@@ -1,0 +1,5 @@
+Output for sample.json:
+3
+
+Output for test2.json:
+-6290016743746469796
