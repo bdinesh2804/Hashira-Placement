@@ -1,5 +1,6 @@
-Output for sample.json:
+Output for test case 1:
 3
 
-Output for test2.json:
+Output for test case 2:
+
 -6290016743746469796
